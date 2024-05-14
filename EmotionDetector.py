@@ -1,8 +1,9 @@
 """
-GROUP 07: 
+GROUP 10: 
 Member : 
- 2/ Danh Truong Son - 20110394
-
+ 1/ Danh Truong Son - 20110394
+ 2/ Nguyen Duc Huy - 20145449
+ 3/ Nguyen Trung Nguyen - 20110388
 """
 # import 1 so thu vien can thiet
 import tensorflow as tf
