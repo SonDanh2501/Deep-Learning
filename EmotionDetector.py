@@ -60,7 +60,7 @@ class EmotionDetector:
                 gender_label_position=(x,y+h+30) 
                 cv2.putText(frame,gender_label,gender_label_position,cv2.FONT_HERSHEY_SIMPLEX,1,(0,255,0),2)
                 
-            cv2.imshow('Group 7 __ Member: Danh Truong Son - 20110394 / Dang Phuoc Truong Tai - 20110396 / Dang Thanh Tuyen - 20110412', frame)
+            cv2.imshow('Group 10 - Member: Danh Truong Son - 20110394 / Nguyen Trung Nguyen - 20110388 / Nguyen Duc Huy - 20145449', frame)
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 break
         cap.release()
