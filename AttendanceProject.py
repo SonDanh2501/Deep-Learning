@@ -1,9 +1,9 @@
 """
-GROUP 07: 
+GROUP 10: 
 Member : 
- 1/ Dang Thanh Tuyen - 20110412
- 2/ Danh Truong Son - 20110394
- 3/ Dang Phuoc Truong Tai - 20110396
+ 1/ Danh Truong Son - 20110394
+ 2/ Nguyen Duc Huy - 20145449
+ 3/ Nguyen Trung Nguyen - 20110388
 """
 from sys import path
 from tkinter import*
